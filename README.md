@@ -28,3 +28,16 @@ Tested using Pipenv and Jupyter in Visual Studio Code on Ubuntu 22.04. Additiona
 6. Open `main.ipynb`.
 
 Alternatively, you can try and run a Jupyter server manually, or use Google Colab.
+
+## Author(s)
+This software has been developed by
+Costas A. Kokke [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0005-8545-5702), Technische Universiteit Delft
+
+## License
+The contents are licensed under a GPL-3.0 license
+
+Copyright notice:
+
+Technische Universiteit Delft hereby disclaims all copyright interest in the program `eusipco2024`, written by the Author(s).
+
+Lucas van Vliet, Dean of Faculty of Electrical Engineering, Mathematics and Computer Science, Technische Universiteit Delft.
