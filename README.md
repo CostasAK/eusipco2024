@@ -18,7 +18,7 @@ The notebook can be viewed online by opening it in nbviewer or Google Colab.
 
 ## Usage
 
-Tested using Pipenv and Jupyter in Visual Studio Code on Ubuntu 20.04.
+Tested using Pipenv and Jupyter in Visual Studio Code on Ubuntu 22.04.
 
 1. `git clone` this repository and `cd` into the directory.
 2. (optional) `export PIPENV_VENV_IN_PROJECT=1` to install Pipenv virtual environments into the current project folder.
