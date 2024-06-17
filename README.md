@@ -1,6 +1,9 @@
 # Transmit and Receive Sensor Selection Using the Multiplicity in the Virtual Array
 
 [<img src="https://media.licdn.com/dms/image/D4D0BAQGI3u-J_KWMoA/company-logo_200_200/0/1706800320569/eusipco_logo?e=1726704000&v=beta&t=7LHnNirAwhMmAZVz0c3QYYvG4WW5HC6cnymW7vOyN0k" align="right" max-width="200px" alt="EUSIPCO 2024 Logo"/>](https://eusipcolyon.sciencesconf.org)
+
+[![DOI](https://zenodo.org/badge/770456337.svg)](https://zenodo.org/doi/10.5281/zenodo.11963747)
+
 By Ids van der Werf, Costas A. Kokke, Richard Heusdens, Richard C. Hendriks, Geert Leus, and Mario Coutino.
 
 Code accompanying our submission to the 32nd European Signal Processing Conference (EUSIPCO 2024).
