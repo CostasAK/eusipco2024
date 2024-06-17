@@ -5,6 +5,10 @@ By Ids van der Werf, Costas A. Kokke, Richard Heusdens, Richard C. Hendriks, Gee
 
 Code accompanying our submission to the 32nd European Signal Processing Conference (EUSIPCO 2024).
 
+## Abstract
+
+> The main focus of this paper is an active sensing application that involves selecting transmit and receive sensors to optimize the Cramér-Rao bound (CRB) on target parameters. Although the CRB is non-convex in the transmit and receive selection, we demonstrate that it is convex in the virtual array weight vector, which describes the multiplicity of the virtual array elements. Based on this finding, we propose a novel algorithm that optimizes the virtual array weight vector first and then finds a matching transceiver array. This greatly enhances the efficiency of the transmit and receive sensor selection problem.
+
 ## Viewing
 
 The notebook can be viewed online by opening it in nbviewer or Google Colab.
